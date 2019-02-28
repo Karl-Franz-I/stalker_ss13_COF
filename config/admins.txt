@@ -8,6 +8,7 @@
 # NOTE: syntax was changed to allow hyphenation of ranknames, since spaces are stripped.      #
 ###############################################################################################
 xrenoid = Host
+echocassius = Host
 narciss_f = Host
 fillcross = Host
 corporaldead = Badmin
